@@ -1,0 +1,12 @@
+int a=1,b=3+2*5;
+
+
+main()
+{
+    out "Output a:\n",a;
+    out "\nOutput b:\n",b;
+    in "\nPlease input a:\n",a;
+    in "\nPlease input b:\n",b;
+    out "\nOutput a:\n",a;
+    out "\nOutput b:\n",b;
+}
