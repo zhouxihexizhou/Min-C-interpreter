@@ -1,0 +1,11 @@
+int a=5,b=2;
+main()
+{
+    c=a+b;
+    do
+    {
+        c=c-1;
+    }
+    until c<2;
+    out "Êä³öc\n",c;
+}

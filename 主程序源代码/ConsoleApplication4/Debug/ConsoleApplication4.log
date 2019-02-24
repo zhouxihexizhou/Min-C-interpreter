@@ -1,0 +1,21 @@
+﻿  structure.cpp
+  semantic.cpp
+c:\users\songyingxin\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\semantic.cpp(225): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+c:\users\songyingxin\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\semantic.cpp(230): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+  route.cpp
+  read.cpp
+  out.cpp
+  main.cpp
+  Lexer.cpp
+  in.cpp
+  calculate.cpp
+  Analyzer.cpp
+  正在生成代码...
+c:\users\songyingxin\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\analyzer.cpp(186): warning C4715: “findTrie”: 不是所有的控件路径都返回值
+c:\users\songyingxin\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\analyzer.cpp(243): warning C4715: “findTrie”: 不是所有的控件路径都返回值
+c:\users\songyingxin\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\analyzer.cpp(309): warning C4715: “findfunc”: 不是所有的控件路径都返回值
+c:\users\songyingxin\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\analyzer.cpp(329): warning C4715: “findfunc”: 不是所有的控件路径都返回值
+c:\users\songyingxin\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\analyzer.cpp(668): warning C4715: “glo_func_var”: 不是所有的控件路径都返回值
+c:\users\songyingxin\documents\visual studio 2015\projects\consoleapplication4\consoleapplication4\calculate.cpp(64): warning C4715: “seman”: 不是所有的控件路径都返回值
+  ConsoleApplication4.vcxproj -> C:\Users\songyingxin\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Debug\ConsoleApplication4.exe
+  ConsoleApplication4.vcxproj -> C:\Users\songyingxin\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Debug\ConsoleApplication4.pdb (Full PDB)
